@@ -1,0 +1,20 @@
+
+1- git log : Displays a history of commits.
+
+2- git fetch : Downloads objects and refs from another repository.
+
+3- git diff : Shows changes between the staging area and the last commit.
+
+4- git remote add origin <repository_url> : Adds a new remote repository.
+
+5-git remote remove <remote_name> : Removes a remote repository.
+
+6-git clean -f : Removes untracked files from the working directory.
+
+7-gh pr review <pull_request_number> : Reviews the changes proposed in a pull request 
+
+8-gh pr merge <pull_request_number> : merges the approved pull request into the target branch
+
+9-git tag -d <tag_name> : Deletes a tag locally 
+
+10- git bisect : Uses binary search to find a commit that introduced a bug.
